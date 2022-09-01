@@ -47,5 +47,5 @@ as the examples found in the boxes. If the date is entered as MM/DD/YYYY instead
 other boxes are entered with capital letters instead of strictly lowercase, the search will render no results<br>
 even if results do exist for the criteria entered. Two recommendations for further development are: add a pop-up<br>
 dialog box that informs users they entered the criteria incorrectly and to inform them how to enter search criteria <br>
-in the search boxes, and to adjust where needed in the source code to make it so the search boxes aren't so particular <br>
-to specific formatting.
+in the search boxes, and to adjust where needed in the source code to make it so the search boxes aren't so<br> 
+particular to specific formatting.
